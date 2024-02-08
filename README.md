@@ -23,7 +23,7 @@ Welcome to our Full-Stack Chat Application - a dynamic and feature-rich chat pla
 
 ## Contributing
 
-If you'd like to contribute to the Full-Stack Chat Application, please follow the [contribution guidelines](CONTRIBUTING.md).
+Pull requests and issues are welcome. Please feel free to contribute to this project.
 
 ## License
 
