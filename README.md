@@ -1,6 +1,8 @@
-# NodeJS (Full-Stack) Chat App
+# NodeJS Chat App
 
 Welcome to our Full-Stack Chat Application - a dynamic and feature-rich chat platform powered by Node.js for the backend and React.js for the frontend. Engage in real-time conversations with a sleek and modern interface.
+
+<h1>Full Stack Chat Application</h1>
 
 ## Features
 
